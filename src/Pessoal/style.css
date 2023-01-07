@@ -1,0 +1,21 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 32px auto;
+    gap: 16px;
+}
+
+.a-portfolio{
+    background-color: bisque;background: rgb(216,74,221);
+    background: linear-gradient(45deg, rgba(216,74,221,1) 0%, rgba(255,218,95,1) 100%);
+}
+.a-setup{
+    background: rgb(198,141,170);
+background: linear-gradient(45deg, rgba(198,141,170,1) 0%, rgba(255,95,230,1) 100%);
+}
+
+.a:hover .icon{
+    height: 2.5rem;
+}

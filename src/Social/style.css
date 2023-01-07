@@ -1,0 +1,29 @@
+.a-instagram {
+    background: rgb(254, 159, 5);
+    background: linear-gradient(57deg, rgba(254, 159, 5, 1) 0%, rgba(245, 85, 24, 1) 15%, rgba(236, 6, 44, 1) 31%, rgba(243, 26, 131, 1) 50%, rgba(249, 45, 213, 1) 68%, rgba(179, 42, 209, 1) 86%, rgba(88, 38, 203, 1) 100%);
+}
+
+.a-linkedin {
+    background: rgb(99, 188, 236);
+    background: linear-gradient(90deg, rgba(99, 188, 236, 1) 0%, rgba(0, 119, 183, 1) 100%);
+}
+
+.a-github{
+    background: rgb(62,79,64);
+background: linear-gradient(35deg, rgba(62,79,64,1) 0%, rgba(199,177,78,1) 100%);
+}
+
+.a-discord{
+    background: rgb(59,109,147);
+background: linear-gradient(35deg, rgba(59,109,147,1) 0%, rgba(114,137,217,1) 100%);
+}
+
+.a-twitch{
+    background: rgb(144,71,255);
+background: linear-gradient(35deg, rgba(144,71,255,1) 0%, rgba(158,147,173,1) 100%);
+}
+
+.a-youtube{
+    background: rgb(237,127,127);
+background: linear-gradient(35deg, rgba(237,127,127,1) 0%, rgba(255,0,0,1) 100%);
+}
