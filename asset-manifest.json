@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bio/static/css/main.75770770.css",
+    "main.js": "/bio/static/js/main.41480ae9.js",
+    "static/js/787.e5f56525.chunk.js": "/bio/static/js/787.e5f56525.chunk.js",
+    "static/media/avatar.webp": "/bio/static/media/avatar.a6e899a242fd39edda57.webp",
+    "static/media/discord.svg": "/bio/static/media/discord.738b08329783757c8b6a21600f7a57b0.svg",
+    "static/media/logo.svg": "/bio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/bio/static/media/github.2ef55cc23bd147b9355e430d4e8db041.svg",
+    "static/media/twitch.svg": "/bio/static/media/twitch.3c55ae919f3dede5388d56b7d09c0a2e.svg",
+    "index.html": "/bio/index.html",
+    "static/media/youtube.svg": "/bio/static/media/youtube.78b9eea31a1aca4aed775e61200acb04.svg",
+    "static/media/linkedin.svg": "/bio/static/media/linkedin.86b12e5c5f806898bf7bd46b705d6681.svg",
+    "static/media/setup.svg": "/bio/static/media/setup.b139652912a5867a5cd97f69d6c886f3.svg",
+    "static/media/instagram.svg": "/bio/static/media/instagram.82e7694873e0bf549902e8282ffbd16a.svg",
+    "static/media/code.svg": "/bio/static/media/code.96a50d5e37beb69b9cb0d8d00e2dfdc0.svg",
+    "main.75770770.css.map": "/bio/static/css/main.75770770.css.map",
+    "main.41480ae9.js.map": "/bio/static/js/main.41480ae9.js.map",
+    "787.e5f56525.chunk.js.map": "/bio/static/js/787.e5f56525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75770770.css",
+    "static/js/main.41480ae9.js"
+  ]
+}
