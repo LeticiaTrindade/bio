@@ -28,7 +28,7 @@ function Social() {
                 </a>
 
                 <a href="https://github.com/LeticiaTrindade/" target="_blank" className="a a-github d-flex col-md-6">
-                    <img className="icon" src={github} href="https://google.com/" />
+                    <img className="icon" src={github}/>
                     <h4>Github</h4>
                 </a>
                 
@@ -38,7 +38,7 @@ function Social() {
                 </a>
 
                 <a href="https://www.twitch.tv/lellyplay/" target="_blank" className="a a-twitch d-flex col-md-6">
-                    <img className="icon" src={twitch} href="https://google.com/" />
+                    <img className="icon" src={twitch} />
                     <h4>Twitch</h4>
                 </a>
             </section>
