@@ -1,16 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import Profile from './Profile';
-import Pessoal from './Pessoal';
-import Social from './Social';
+import Home from './Home';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import Setup from './Setup';
 
 function App() {
   return (
-    <section className='container col-md-5'>
-    <Profile/>
-    <Pessoal/>
-    <Social/>
-    </section>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/setup" element={<Setup/>} />
+      </Routes>
+    </Router>
   );
 }
 
