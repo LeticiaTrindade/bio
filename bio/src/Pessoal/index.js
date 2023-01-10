@@ -12,7 +12,7 @@ function Pessoal() {
                 <img className="icon" src={Portfolio} />
                 <h4>Portfolio</h4>
             </a>
-            <Link to="/bio/setup" className="a a-setup d-flex col-md-6">
+            <Link to="/setup" className="a a-setup d-flex col-md-6">
                 <img className="icon" src={Pc} />
                 <h4>Setup</h4>
             </Link>
