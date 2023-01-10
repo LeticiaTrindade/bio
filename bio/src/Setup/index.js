@@ -12,7 +12,7 @@ function Setup() {
         <section className='container col-md-5'>
            
 
-                <Link to="/" className=" container a a-setup d-flex col-md-6">
+                <Link to="/bio" className=" container a a-setup d-flex col-md-6">
                     <img className="icon" src={home} />
                     <h4>Voltar</h4>
                 </Link>
