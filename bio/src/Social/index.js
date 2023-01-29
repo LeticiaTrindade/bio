@@ -10,9 +10,9 @@ import youtube from '../images/youtube.svg';
 function Social() {
     return (
         <>
-            <h3>Pessoal</h3>
+            <h3>Social</h3>
             <section className="d-flex section" >
-                <a href="https://www.instagram.com/leticiatrindadet/" target="_blank" className="a a-instagram d-flex col-md-6">
+                <a href="https://www.instagram.com/lelly.dev/" target="_blank" className="a a-instagram d-flex col-md-6">
                     <img className="icon" src={instagram} />
                     <h4>Instagram</h4>
                 </a>
