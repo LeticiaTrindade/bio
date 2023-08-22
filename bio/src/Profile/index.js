@@ -9,7 +9,7 @@ function Profile(){
             <img className="img-profile" src={Avatar} />
             </div>
             <h1 className="img-h1">Letícia Trindade</h1>
-            <h2 className="img-h2">@leticiatrindadet</h2>
+            <h2 className="img-h2">@lelly.dev</h2>
         </section>
     );
 }

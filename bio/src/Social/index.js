@@ -17,7 +17,7 @@ function Social() {
                     <h4>Instagram</h4>
                 </a>
 
-                <a href="https://www.linkedin.com/in/leticiatrindadet/" target="_blank" className="a a-linkedin d-flex col-md-6">
+                <a href="https://www.linkedin.com/in/leticiatrindadett/" target="_blank" className="a a-linkedin d-flex col-md-6">
                     <img className="icon" src={linkedin} />
                     <h4>Linkedin</h4>
                 </a>

@@ -8,7 +8,7 @@ function Pessoal() {
     return (<>
         <h3>Pessoal</h3>
         <section className="d-flex section" >
-            <a href="https://leticiatrindade.github.io/portfolio/" target="_blank" className="a a-portfolio d-flex col-md-6">
+            <a href="https://leticiatrindade.github.io/new-portfolio/" target="_blank" className="a a-portfolio d-flex col-md-6">
                 <img className="icon" src={Portfolio} />
                 <h4>Portfolio</h4>
             </a>
