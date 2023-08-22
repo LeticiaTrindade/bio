@@ -22,11 +22,6 @@ function Social() {
                     <h4>Linkedin</h4>
                 </a>
 
-                <a href="https://discord.gg/DMDF7xYe/" target="_blank" className="a a-discord d-flex col-md-6">
-                    <img className="icon" src={discord} />
-                    <h4>Discord</h4>
-                </a>
-
                 <a href="https://github.com/LeticiaTrindade/" target="_blank" className="a a-github d-flex col-md-6">
                     <img className="icon" src={github}/>
                     <h4>Github</h4>
