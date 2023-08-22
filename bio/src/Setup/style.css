@@ -1,0 +1,18 @@
+.h3-setup{
+    margin: 2rem 0rem;
+}
+
+.ul-setup{
+    text-align: left;
+    color: white;   
+    list-style-type: none;
+}
+
+.ul-setup .li-setup::before {
+    content: "\2022";
+    color: rgb(184, 47, 138);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
